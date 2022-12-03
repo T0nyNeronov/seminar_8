@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\HW1_ДвумерМассив.exe
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\HW1_ДвумерМассив.deps.json
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\HW1_ДвумерМассив.runtimeconfig.json
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\HW1_ДвумерМассив.dll
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\ref\HW1_ДвумерМассив.dll
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\bin\Debug\net6.0\HW1_ДвумерМассив.pdb
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.dll
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\ref\HW1_ДвумерМассив.dll
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.pdb
+C:\Users\Людмила\Desktop\Semi8\HW1_ДвумерМассив\obj\Debug\net6.0\HW1_ДвумерМассив.genruntimeconfig.cache
