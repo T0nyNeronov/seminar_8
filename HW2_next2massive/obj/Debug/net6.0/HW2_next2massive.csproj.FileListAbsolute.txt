@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\HW2_next2massive.exe
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\HW2_next2massive.deps.json
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\HW2_next2massive.runtimeconfig.json
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\HW2_next2massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\ref\HW2_next2massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\bin\Debug\net6.0\HW2_next2massive.pdb
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\ref\HW2_next2massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.pdb
+C:\Users\Людмила\Desktop\Semi8\HW2_next2massive\obj\Debug\net6.0\HW2_next2massive.genruntimeconfig.cache
