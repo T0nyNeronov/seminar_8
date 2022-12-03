@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\HW3_Massive.exe
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\HW3_Massive.deps.json
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\HW3_Massive.runtimeconfig.json
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\HW3_Massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\ref\HW3_Massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\bin\Debug\net6.0\HW3_Massive.pdb
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\ref\HW3_Massive.dll
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.pdb
+C:\Users\Людмила\Desktop\Semi8\HW3_Massive\obj\Debug\net6.0\HW3_Massive.genruntimeconfig.cache
